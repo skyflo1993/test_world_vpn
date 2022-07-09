@@ -1,8 +1,8 @@
 {
   "files": [
     {
-      "name": "TH_INET_AIS",
-      "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/inet/AIS.ovpn"
+      "name": "INET_DTAC_NOPRO",
+      "url": "https://raw.githubusercontent.com/skyflo1993/test_world_vpn/main/INET_DTAC_NOPRO.ovpn"
     },
     {
       "name": "TH_1_DTAC_LINE",
