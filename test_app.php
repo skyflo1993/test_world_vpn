@@ -3,6 +3,5 @@
   "title": "ตรวจพบการอัพเดทแอพใหม่",
   "link": "play.google.com/store/apps/details?id\u003dworldvpn.worldvpn.appvpn",
   "last_version_app": "3.0.1",
-  "last_version_app_int": 21,
   "version_app_true": 21
 }
