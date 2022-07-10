@@ -4,5 +4,5 @@
   "link": "play.google.com/store/apps/details?id\u003dworldvpn.worldvpn.appvpn",
   "last_version_app": "3.0.2",
   "last_version_app_int": 22,
-  "current_version_app_int": 21
+  "version_app_true": 21
 }
